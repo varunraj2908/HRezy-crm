@@ -1,0 +1,18 @@
+.slected {
+  background-color: #002379;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.slected:hover {
+  background-color: white;
+  width: 100%;
+  color: black;
+}
+.muiIcon {
+  color: white;
+}
+
+.muiIcon > .muiIcon:hover {
+  color: black;
+}
